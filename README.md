@@ -1,4 +1,4 @@
-# Workshop state and event complete
+# Workshop use reducer complete
 
 ## Setup
 
